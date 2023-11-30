@@ -1,0 +1,291 @@
+*{
+    margin: 0;
+}
+.body{
+    background-color: #eba308;
+    width: 50%;
+    font-family: serif;
+}
+.logo{
+    height: 532px;
+}
+.fname-div{
+    float: right;
+    margin-right: -304px;
+    margin-top: -345px;
+}
+.fname-input{
+    float: right;
+    margin-right: -402px;
+    margin-top: -320px;
+}
+.fname-label{
+    font-size: 16px;
+}
+.fname-input2{
+    height: 18px;
+    width: 168px;
+    font-size: 13px;
+}
+.sname-div{
+    float: right;
+    margin-right: -568px;
+    margin-top: -346px;
+
+}
+.sname-label{
+    font-size: 16px;
+}
+.sname-input{
+    float: right;
+    margin-right: -668px;
+    margin-top: -320px;
+}
+.sname-input2{
+    height: 18px;
+    width: 168px;
+    font-size: 13px;
+}.password-div{
+    float: right;
+    margin-right: -293px;
+    margin-top: -278px;
+}
+.psswd-label{
+    font-size: 16px;
+}
+.psswd-input{
+    float: right;
+    margin-right: -402px;
+    margin-top: -252px;
+}
+.psswd-input2{
+    height: 18px;
+    width: 168px;
+    font-size: 13px;
+}
+.repsswd-div{
+    float: right;
+    margin-right: -622px;
+    margin-top: -278px;
+}
+.repsswd-label{
+    font-size: 16px;
+}
+.repsswd-input{
+    float: right;
+    margin-right: -668px;
+    margin-top: -253px;
+}
+.repsswd-input2{
+    height: 18px;
+    width: 168px;
+    font-size: 13px;
+}
+.phone-div{
+    float: right;
+    margin-right: -331px;
+    margin-top: -210px;
+}
+
+.phone-label{
+    font-size: 16px;
+}
+.phone-input{
+    float: right;
+    margin-right: -402px;
+    margin-top: -183px;
+}
+.phone-input2{
+    height: 18px;
+    width: 168px;
+    font-size: 13px;
+}
+.gender{
+    float: right;
+    margin-right: -545px;
+    margin-top: -209px;
+}
+.gender-label{
+    font-size: 16px;
+}
+.male-label{
+    font-size: 16px;
+}
+.female-label{
+    font-size: 16px;
+}
+.checkbox{
+    width: 19px;
+    height: 17px;
+}
+.radio-button-male{
+    float: right;
+    font-size: 19px;
+    margin-right: -552px;
+    margin-top: -185px;
+}
+.radio-button-female{
+    float: right;
+    font-size: 26px;
+    margin-right: -652px;
+    margin-top: -188px;
+}
+.submit-btn{
+    float: right;
+    margin-right: -660px;
+    margin-top: -112px;
+}
+.btn{
+    width: 409px;
+    height: 35px;
+    text-align: center;
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #df9d10;
+    border: 2px solid black;
+}
+.btn:hover{
+    box-shadow: 0px 0px 60px -12px rgba(89,84,89,0.89);
+    color: white;
+}
+.header{
+    float: right;
+    margin-top: -488px;
+    margin-right: -562px;
+}
+.signin2{
+    font-size: 80px;
+}
+.footer{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row;    
+    height: 372px;
+    width: 1644px;   
+    background-color: #eba308;
+    gap: 20px;
+    margin-left: 100px;
+}
+.main-head-1{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 200px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+}
+.main-ft-onl-shp{
+    font-size: 20px;
+}
+.main-ft-btn{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+body{
+    margin: 0;
+    margin-top: -45px;
+    background-color: #eba308;
+}
+a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+a:hover{
+    color: rgb(0, 0, 0);
+}
+.main-ft-cst-plc{
+    font-size: 20px;
+    font-weight: bolder;
+}
+.main-head-2{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+}
+.customer-policy{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 200px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+}
+.head:hover{
+    color: white;
+}
+.applogos{
+    width: 286px;
+    height: 45px;
+    margin-top: 25px;
+    margin-left: -2px;
+}
+.logo-header{
+    margin-top: 62px;
+    font-size: 20px;
+}
+.social-media{
+    margin-top: 14px;
+}
+.facebook{   
+    font-size: 27px;
+    margin-top: 8px;
+    margin-right: 318px;
+}
+.social-md-logo{
+    display: flex;
+    flex-direction: row;
+}
+.instagram{
+    margin-left: -305px;
+    margin-top: 10px;
+    font-size: 27px;
+}
+.twitter{
+    font-size: 27px;
+    margin-right: 17px;
+    margin-left: 13px;
+    margin-top: 10px;
+}
+.orginal1{
+    font-weight: lighter;
+    margin-left: 456px;
+    margin-top: -166px;
+}
+.orginal2{
+    font-weight: lighter;
+    margin-left: 456px;
+    margin-top: -1px;
+}
+.return-order{
+    float: left;
+    margin-left: 393px;
+    margin-top: -107px;
+}
+.return-10days{
+    margin-left: 457px;
+    margin-top: 20px;
+}
+.original-logo{
+    float: right;
+    margin-top: -172px;
+    margin-right: 259px;
+}
+.policy{
+    display: flex;
+    flex-direction: row;
+    margin-top: 125px;
+    gap: 50px;
+    text-decoration: none;
+}
+.cpissue{
+    margin-top: 39px;
+    margin-left: -400px;
+}
+.cp-logo{
+    margin-left: -417px;
+    margin-top: -17px;
+}
